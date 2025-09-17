@@ -1,1 +1,4 @@
 Here is the second file in development branch.!
+Here is more content for the   	- add all these changes to index area, then add a new content to file2.txt, do commit, run git log
+	 
+     
